@@ -32,4 +32,4 @@ Examples of my skills (I will post them gradually):
 - Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik%20Interactive%20Course%20queries)
 
 **Postman:**
-- Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik%20Interactive%20Course%20queries)
+- Maps API - [Collection](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/Postman/MapsAPI_Collection)
