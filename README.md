@@ -27,3 +27,6 @@ Examples of my skills (I will post them gradually):
 - Web App (Capital.com) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1sI6HZojN6VfthWmS35EHeC3v-lVne6razgtseLRX5AQ/edit?usp=share_link)
 - Mobile App (Crypto price widget) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1F_iMyHabv2fceRQTZKbtSRlul70-7MwiEYiecSohY3E/edit?usp=share_link)
 - Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1w_A8qpKKmkMDmAIQc-LGEeHMlwmwCjXqsWr0hbkD4rM/edit?usp=share_link)
+
+**SQL:**
+- Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1w_A8qpKKmkMDmAIQc-LGEeHMlwmwCjXqsWr0hbkD4rM/edit?usp=share_link)
