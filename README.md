@@ -29,4 +29,7 @@ Examples of my skills (I will post them gradually):
 - Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1w_A8qpKKmkMDmAIQc-LGEeHMlwmwCjXqsWr0hbkD4rM/edit?usp=share_link)
 
 **SQL:**
-- Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1w_A8qpKKmkMDmAIQc-LGEeHMlwmwCjXqsWr0hbkD4rM/edit?usp=share_link)
+- Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik%20Interactive%20Course%20queries)
+
+**Postman:**
+- Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik%20Interactive%20Course%20queries)
