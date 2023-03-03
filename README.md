@@ -17,7 +17,7 @@ Now I have experience working on a project where I met great people and learned 
 
 ___
 
-Examples of my skills (I will post them gradually):
+### Examples of my skills (I will post them gradually):
 
 <details>
   <summary><b>Check lists</b></summary>
