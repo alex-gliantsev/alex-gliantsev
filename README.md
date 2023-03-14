@@ -1,6 +1,6 @@
 ### Hi there, I'm Aleksandr. But you can call me Sasha :wink:
 I am a novice QA engineer.
-
+___
 
 <details>
   <summary><b>Click here to learn a little about me. Very briefly</b></summary>
@@ -17,8 +17,8 @@ Now I have experience working on a project where I met great people and learned 
 
 ___
 
-### Examples of my skills (I will post them gradually):
-
+### Examples of my skills:
+<br>
 <details>
   <summary><b>Check lists</b></summary>
   <p>
@@ -42,4 +42,7 @@ ___
 
 **SQL:** Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik%20Interactive%20Course%20queries)
 
+
 **Postman:** Maps API - [Collection](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/Postman/MapsAPI_Collection)
+
+
