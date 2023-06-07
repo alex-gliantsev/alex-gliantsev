@@ -40,7 +40,7 @@ ___
 </details>
 <br>
 
-**SQL:** Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik%20Interactive%20Course%20queries)
+**SQL:** Stepic. SQL Interactive Course - [Queries](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/SQL/Stepik-Interactive_Course_queries)
 
 
 **Postman:** Maps API - [Collection](https://github.com/alex-gliantsev/alex-gliantsev/tree/main/Portfolio/Postman/MapsAPI_Collection)
