@@ -35,7 +35,7 @@ ___
 
 - Web App (Capital.com) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1ZChMW4XnMq4fTII68Z1XI8vUmu5w9_V7D1LZKEyqinM/edit?usp=drive_link)
 - Mobile App (Crypto price widget) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1Hh98LYjywYusDOYSfTjbEf7_fF2cPAdHlWOw7Q7rmo0/edit?usp=drive_link)
-- Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1Gyrv06wsfjdw9Zp_usqFjXVRKzNHJnMojtsC-ehR1Cc/edit?usp=drive_link)
+- Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1JMSW-t1myzOD7tzwVNUV0MIp-hO2IzWgrSKRHnzyC7U/edit?usp=drive_link)
    </p>
 </details>
 <br>
