@@ -23,9 +23,9 @@ ___
   <summary><b>Check lists</b></summary>
   <p>
 
-- Web App (Capital.com) - [Check list (english)](https://docs.google.com/spreadsheets/d/1R8qpoOJJIPIWldHowJvOYtTQ_Av3tvJnpen8eh8-eec/edit?usp=share_link)
-- Mobile App (Crypto price widget) - [Check list (english)](https://docs.google.com/spreadsheets/d/1iBcQHGaycij-dJjIQv49bM5HQCDgIHUpAMjX7DbAwG4/edit?usp=share_link)
-- Mobile App (Crypto price widget) - [Check list (russian)](https://docs.google.com/spreadsheets/d/1X54AM9HwKXJv9kVRyyED7q0CbFK6F2SQnAGuyKt2UnE/edit?usp=share_link)
+- Web App (Capital.com) - [Check list (english)](https://docs.google.com/spreadsheets/d/1baEkLggZ2rcI-pQLNkoorkRj2lZL_cyvQu1AG7_emH8/edit?usp=drive_link)
+- Mobile App (Crypto price widget) - [Check list (english)](https://docs.google.com/spreadsheets/d/1uK8sgiaGN_e2O_WtmHJXWWj2qd1roQFrCPVoM68Ez5c/edit?usp=drive_link)
+- Mobile App (Crypto price widget) - [Check list (russian)](https://docs.google.com/spreadsheets/d/1zb-CfRdJOSVD9hVX5NwaYCpBMYDe17nLAYpr7cAkqwI/edit?usp=drive_link)
    </p>
 </details>
 <br>
@@ -33,9 +33,9 @@ ___
   <summary><b>Bug reports</b></summary>
   <p>
 
-- Web App (Capital.com) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1sI6HZojN6VfthWmS35EHeC3v-lVne6razgtseLRX5AQ/edit?usp=share_link)
-- Mobile App (Crypto price widget) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1F_iMyHabv2fceRQTZKbtSRlul70-7MwiEYiecSohY3E/edit?usp=share_link)
-- Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1w_A8qpKKmkMDmAIQc-LGEeHMlwmwCjXqsWr0hbkD4rM/edit?usp=share_link)
+- Web App (Capital.com) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1ZChMW4XnMq4fTII68Z1XI8vUmu5w9_V7D1LZKEyqinM/edit?usp=drive_link)
+- Mobile App (Crypto price widget) - [Bug report (english)](https://docs.google.com/spreadsheets/d/1Hh98LYjywYusDOYSfTjbEf7_fF2cPAdHlWOw7Q7rmo0/edit?usp=drive_link)
+- Mobile App (Crypto price widget) - [Bug report (russian)](https://docs.google.com/spreadsheets/d/1Gyrv06wsfjdw9Zp_usqFjXVRKzNHJnMojtsC-ehR1Cc/edit?usp=drive_link)
    </p>
 </details>
 <br>
